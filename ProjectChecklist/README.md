@@ -360,7 +360,6 @@ Github provides a proprietary-freeware desktop Git GUI, <https://desktop.github.
 If you use Glyphs, the [github.com/simoncozens/GlyphsGit](https://github.com/simoncozens/GlyphsGit) plugin changes the 'save' function to integrate with Git, so that as you save like normal within the app, you are prompted for a git commit message.
 These 2 tools are probably the best way to keep your work committed into git as you go.
 Doing so helps keep a journal of your progress with the project.
-If you have a habit of saving every few minutes, a good tempo for making commits is when you make a proof (either with a print layout application, or a web tester like the Impallari Testing page)
 
 As you work, make commits with messages along the way. These tend to be simple statements of what value you add at a given stage, like, "rebuild fonts with new style names" or "add inktraps to lowercase," etc. I think of commits like "checkpoints" in a video game – if I mess up, I can always reset at the last commit, without losing much work.
 
